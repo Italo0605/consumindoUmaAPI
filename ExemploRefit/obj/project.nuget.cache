@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/Y4l19lClSegmvKbMQD+jO8ukf374701lvMhH+3JRNzsXIG/ptlRk3VbeiJ7v2jcNQ5wAQSLZNyhx1VO5DyOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\italo\\source\\repos\\ExemploRefit\\ExemploRefit\\ExemploRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
